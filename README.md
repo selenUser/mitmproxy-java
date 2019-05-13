@@ -41,7 +41,7 @@ Maven:
 
 Gradle:
 ```
-testCompile group: 'io.appium', name: 'mitmproxy-java', version: '1.6.1'
+testCompile group: 'io.appium', name: 'mitmproxy-java', version: '1.6.2'
 ```
 
 ## Usage
